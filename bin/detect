@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "NX Repository"
+exit 0
